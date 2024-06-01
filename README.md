@@ -6,6 +6,7 @@ This project provides a Java program that allows for efficient searching of zomb
 
 # Questions for the Client
 Should the search be case-sensitive?
+Should the system handle custom zombie types that are not predefined in the enum, or is it restricted to only predefined types?
 
 # Design Decisions and Assumptions
 Enums for Zombie Types: Use enums to define predefined zombie types with associated weaknesses.
